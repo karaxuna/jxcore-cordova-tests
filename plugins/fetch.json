@@ -1,0 +1,35 @@
+{
+    "cordova-plugin-test-framework": {
+        "source": {
+            "type": "git",
+            "url": "git://github.com/apache/cordova-plugin-test-framework",
+            "subdir": "."
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "io.jxcore.node": {
+        "source": {
+            "type": "local",
+            "path": "..\\io.jxcore.node"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "io.jxcore.node-tests": {
+        "source": {
+            "type": "local",
+            "path": "..\\io.jxcore.node-tests"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
